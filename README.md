@@ -51,7 +51,7 @@ conda activate mw
 
 For Stage 4 (visual embeddings), you also need the [Qwen3-VL-Embedding](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) model.
 
-## Building the Knowledge Graph
+## Building the Knowledge Graph (Optional)
 
 ### Environment Variables
 
