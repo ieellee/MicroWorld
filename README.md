@@ -1,4 +1,4 @@
-# MicroWorld: Empowering Multimodal Large Language Models to Bridge the Microscopic Domain Gap with Multimodal Attribute Graph
+# MicroWorld: Empowering Multimodal Large Language Models to Bridge the Microscopic Domain Gap with Multimodal Attributed Graph
 
 MicroWorld is a knowledge graph (KG) system designed to support visual question answering (VQA) in the biomedical microscopy domain. It retrieves relevant biological knowledge based on question text and/or image context, and injects it as a structured prompt prefix to improve the reasoning of multimodal large language models (MLLMs).
 
