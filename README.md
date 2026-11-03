@@ -60,7 +60,7 @@ Before running S1 or S3, set your OpenAI-compatible API credentials:
 ```bash
 export OPENAI_API_BASE="https://api.openai.com/v1"
 export OPENAI_API_KEY="your-api-key-here"
-export OPENAI_MODEL="gpt-5.4"
+export OPENAI_MODEL="gpt-5"
 ```
 
 For S3 (NCBI queries), you can optionally set an NCBI API key to increase the rate limit from 3 to 10 requests/second:
